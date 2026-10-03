@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Adaptive AI-Agent Recon Runner
+OSAI Adaptive AI-Agent Recon Runner
 ===================================
 
 Purpose:
